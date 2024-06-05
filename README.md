@@ -1,5 +1,3 @@
-# Nexalink QR Code Scanner App
-
 This repository contains a React Native Expo project that creates a UI page with a QR code and custom buttons. The QR code links to the Nexalink website (`https://www.nexalink.co/`) and can be scanned directly by users. The application is designed to be responsive and provides a good user experience.
 
 ## Features
